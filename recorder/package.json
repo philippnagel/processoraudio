@@ -1,0 +1,19 @@
+{
+  "name": "recorder",
+  "version": "0.0.1",
+  "description": "A web based audio recorder",
+  "main": "index.html",
+  "repository": "https://github.com/philippnagel/processoraudio",
+  "homepage": "https://philippnagel.github.io/processoraudio/recorder",
+  "author": "Philipp Nagel",
+  "license": "Proprietary",
+  "private": true,
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
+
+
